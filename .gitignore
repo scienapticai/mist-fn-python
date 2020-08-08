@@ -1,0 +1,15 @@
+# IDE metadata
+.idea/**
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# User generated files
+*.egg
+*.egg-info
+dist
+build
+venv
+*.pyc
